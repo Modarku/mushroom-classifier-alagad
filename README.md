@@ -6,7 +6,11 @@ This application is simply an experiment to learn about image classification uti
 
 [Open in Streamlit](https://mushroom-classifier-alagad.streamlit.app/)
 
-### How to run it on your own machine
+## How to run it on your own machine
+### ⚠️ Python Version Warning
+> **This application is not compatible with Python 3.13 or above.**  
+> Please use **Python 3.8–3.12** to avoid issues with TensorFlow installation.  
+> Will update the warning when Tensorflow supports Python 3.13.
 
 1. Install the requirements
 
