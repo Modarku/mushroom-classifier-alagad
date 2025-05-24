@@ -4,7 +4,7 @@ The Mushroom Classifier is a mobile-friendly deep learning application that iden
 
 This application is simply an experiment to learn about image classification utilizing Keras and Tensorflow.
 
-[Open in Streamlit]([https://blank-app-template.streamlit.app/](https://mushroom-classifier-alagad.streamlit.app/))
+[Open in Streamlit](https://mushroom-classifier-alagad.streamlit.app/)
 
 ### How to run it on your own machine
 
